@@ -49,7 +49,7 @@ app.get('/services',async (req,res)=>{
     }
 })
 
-//for handling single service by id
+//for handlingg single service by id
 // app.get('/services/:id', async (req, res) => {
 //     const serviceId = req.params.id; // Retrieve the service ID from the URL
 //     try {
